@@ -368,5 +368,5 @@ Deliberately excluded to keep the project focused: real-time GPS tracking, QR co
 
 **salma kobri**
 
-Educational project, not published.
-864afb4 (Initial commit)
+Educational project.
+
